@@ -6,6 +6,7 @@ Install-Module -Name Microsoft.PowerShell.SecretStore
 
 Register-SecretVault -Name 'pwsh-example-vault' -ModuleName Microsoft.PowerShell.SecretStore
 
-Set-Secret -Vault 'pwsh-example-vault' -Name nyt-api-key -SecureStringSecret (ConvertTo-SecureString 'keyToTheKingdom' -AsPlainText -Force)
+Set-Secret -Vault 'pwsh-example-vault' -Name nyt-api-key `
+    -SecureStringSecret (ConvertTo-SecureString 'keyToTheKingdom' -AsPlainText -Force)
 
 Get-Secret -Name nyt-api-key -AsPlainText

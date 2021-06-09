@@ -1,5 +1,5 @@
 # Get Data From an API
-
+#Requires -Modules Microsoft.PowerShell.SecretManagement
 function Get-ThisDaysArticlesByYear {
     param(
         $articlesFromYear = (Get-Date | Select-Object -ExpandProperty Year),
