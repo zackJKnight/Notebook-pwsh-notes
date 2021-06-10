@@ -9,4 +9,4 @@ Register-SecretVault -Name 'pwsh-example-vault' -ModuleName Microsoft.PowerShell
 Set-Secret -Vault 'pwsh-example-vault' -Name nyt-api-key `
     -SecureStringSecret (ConvertTo-SecureString 'keyToTheKingdom' -AsPlainText -Force)
 
-Get-Secret -Name nyt-api-key -AsPlainText
+Get-Secret -Name nyt-api-key -AsPlainTex
