@@ -2,12 +2,12 @@
 # The Universal product allows IT folks to make tools quickly, 
 # removing a mountain of home grown effort
 
+Install-Module UniversalDashboard -Force
 Install-Module Universal -Force
-<#
 Import-Module Universal -Force
 Install-PSUServer -AddToPath
 Start-PSUServer -Port 5600
-#>
+
 
 # Add a button
 $button = New-UDButton -Text "Click me!" -OnClick {

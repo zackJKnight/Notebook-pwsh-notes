@@ -1,0 +1,2483 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Objects>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">United States</Property>
+    <Property Name="Country Code">USA</Property>
+    <Property Name="2019 [YR2019]">5.3020598009239</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Afghanistan</Property>
+    <Property Name="Country Code">AFG</Property>
+    <Property Name="2019 [YR2019]">32.9304513537869</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Albania</Property>
+    <Property Name="Country Code">ALB</Property>
+    <Property Name="2019 [YR2019]">3.0231082827299</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Algeria</Property>
+    <Property Name="Country Code">DZA</Property>
+    <Property Name="2019 [YR2019]">12.9844112787695</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">American Samoa</Property>
+    <Property Name="Country Code">ASM</Property>
+    <Property Name="2019 [YR2019]">..</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Malta</Property>
+    <Property Name="Country Code">MLT</Property>
+    <Property Name="2019 [YR2019]">7.00213354268577</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Marshall Islands</Property>
+    <Property Name="Country Code">MHL</Property>
+    <Property Name="2019 [YR2019]">..</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Mauritania</Property>
+    <Property Name="Country Code">MRT</Property>
+    <Property Name="2019 [YR2019]">52.7128002020344</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Mauritius</Property>
+    <Property Name="Country Code">MUS</Property>
+    <Property Name="2019 [YR2019]">7.26439921820429</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Mexico</Property>
+    <Property Name="Country Code">MEX</Property>
+    <Property Name="2019 [YR2019]">9.0934368360701</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Micronesia</Property>
+    <Property Name="Country Code">Fed. Sts.</Property>
+    <Property Name="2019 [YR2019]">FSM</Property>
+    <Property Name="2020 [YR2020]">12.7066300942558</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Middle East &amp; North Africa</Property>
+    <Property Name="Country Code">MEA</Property>
+    <Property Name="2019 [YR2019]">11.3777473939045</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Middle East &amp; North Africa (excluding high income)</Property>
+    <Property Name="Country Code">MNA</Property>
+    <Property Name="2019 [YR2019]">11.8243237468822</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Middle East &amp; North Africa (IDA &amp; IBRD countries)</Property>
+    <Property Name="Country Code">TMN</Property>
+    <Property Name="2019 [YR2019]">11.8243237468822</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Middle income</Property>
+    <Property Name="Country Code">MIC</Property>
+    <Property Name="2019 [YR2019]">18.2569467015627</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Moldova</Property>
+    <Property Name="Country Code">MDA</Property>
+    <Property Name="2019 [YR2019]">4.47050314530646</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Monaco</Property>
+    <Property Name="Country Code">MCO</Property>
+    <Property Name="2019 [YR2019]">..</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Mongolia</Property>
+    <Property Name="Country Code">MNG</Property>
+    <Property Name="2019 [YR2019]">6.30956602200595</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Montenegro</Property>
+    <Property Name="Country Code">MNE</Property>
+    <Property Name="2019 [YR2019]">1.41387631975863</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Morocco</Property>
+    <Property Name="Country Code">MAR</Property>
+    <Property Name="2019 [YR2019]">8.9061293772705</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Mozambique</Property>
+    <Property Name="Country Code">MOZ</Property>
+    <Property Name="2019 [YR2019]">54.4396366039944</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Myanmar</Property>
+    <Property Name="Country Code">MMR</Property>
+    <Property Name="2019 [YR2019]">21.5972988139263</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Namibia</Property>
+    <Property Name="Country Code">NAM</Property>
+    <Property Name="2019 [YR2019]">45.1503326089775</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Nauru</Property>
+    <Property Name="Country Code">NRU</Property>
+    <Property Name="2019 [YR2019]">..</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Nepal</Property>
+    <Property Name="Country Code">NPL</Property>
+    <Property Name="2019 [YR2019]">24.8208329609614</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Netherlands</Property>
+    <Property Name="Country Code">NLD</Property>
+    <Property Name="2019 [YR2019]">6.00082384419398</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">New Caledonia</Property>
+    <Property Name="Country Code">NCL</Property>
+    <Property Name="2019 [YR2019]">..</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">New Zealand</Property>
+    <Property Name="Country Code">NZL</Property>
+    <Property Name="2019 [YR2019]">4.35473043131918</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Nicaragua</Property>
+    <Property Name="Country Code">NIC</Property>
+    <Property Name="2019 [YR2019]">9.45054216988521</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Niger</Property>
+    <Property Name="Country Code">NER</Property>
+    <Property Name="2019 [YR2019]">59.1736143290551</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Nigeria</Property>
+    <Property Name="Country Code">NGA</Property>
+    <Property Name="2019 [YR2019]">65.2078910458964</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">North America</Property>
+    <Property Name="Country Code">NAC</Property>
+    <Property Name="2019 [YR2019]">5.25639382108827</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">North Macedonia</Property>
+    <Property Name="Country Code">MKD</Property>
+    <Property Name="2019 [YR2019]">1.28361099483121</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Northern Mariana Islands</Property>
+    <Property Name="Country Code">MNP</Property>
+    <Property Name="2019 [YR2019]">..</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Norway</Property>
+    <Property Name="Country Code">NOR</Property>
+    <Property Name="2019 [YR2019]">7.67957977902199</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Not classified</Property>
+    <Property Name="Country Code">INX</Property>
+    <Property Name="2019 [YR2019]">..</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">OECD members</Property>
+    <Property Name="Country Code">OED</Property>
+    <Property Name="2019 [YR2019]">6.72850516764331</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Oman</Property>
+    <Property Name="Country Code">OMN</Property>
+    <Property Name="2019 [YR2019]">9.76462365102089</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Other small states</Property>
+    <Property Name="Country Code">OSS</Property>
+    <Property Name="2019 [YR2019]">34.6433312454864</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Pacific island small states</Property>
+    <Property Name="Country Code">PSS</Property>
+    <Property Name="2019 [YR2019]">15.1089328635915</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Pakistan</Property>
+    <Property Name="Country Code">PAK</Property>
+    <Property Name="2019 [YR2019]">33.1479592293348</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Palau</Property>
+    <Property Name="Country Code">PLW</Property>
+    <Property Name="2019 [YR2019]">..</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Panama</Property>
+    <Property Name="Country Code">PAN</Property>
+    <Property Name="2019 [YR2019]">13.3672704197102</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Papua New Guinea</Property>
+    <Property Name="Country Code">PNG</Property>
+    <Property Name="2019 [YR2019]">30.2720267838858</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Paraguay</Property>
+    <Property Name="Country Code">PRY</Property>
+    <Property Name="2019 [YR2019]">13.954068845618</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Peru</Property>
+    <Property Name="Country Code">PER</Property>
+    <Property Name="2019 [YR2019]">17.5375809963723</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Philippines</Property>
+    <Property Name="Country Code">PHL</Property>
+    <Property Name="2019 [YR2019]">24.281664665108</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Poland</Property>
+    <Property Name="Country Code">POL</Property>
+    <Property Name="2019 [YR2019]">5.85222082210651</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Portugal</Property>
+    <Property Name="Country Code">PRT</Property>
+    <Property Name="2019 [YR2019]">8.5170034449767</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Post-demographic dividend</Property>
+    <Property Name="Country Code">PST</Property>
+    <Property Name="2019 [YR2019]">6.31331731818636</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Pre-demographic dividend</Property>
+    <Property Name="Country Code">PRE</Property>
+    <Property Name="2019 [YR2019]">54.7690772223581</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Puerto Rico</Property>
+    <Property Name="Country Code">PRI</Property>
+    <Property Name="2019 [YR2019]">..</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Qatar</Property>
+    <Property Name="Country Code">QAT</Property>
+    <Property Name="2019 [YR2019]">4.95048572778131</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Romania</Property>
+    <Property Name="Country Code">ROU</Property>
+    <Property Name="2019 [YR2019]">5.32769761915331</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Russian Federation</Property>
+    <Property Name="Country Code">RUS</Property>
+    <Property Name="2019 [YR2019]">3.9034529707424</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Rwanda</Property>
+    <Property Name="Country Code">RWA</Property>
+    <Property Name="2019 [YR2019]">38.1809158837927</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Samoa</Property>
+    <Property Name="Country Code">WSM</Property>
+    <Property Name="2019 [YR2019]">10.3658660641934</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">San Marino</Property>
+    <Property Name="Country Code">SMR</Property>
+    <Property Name="2019 [YR2019]">..</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Sao Tome and Principe</Property>
+    <Property Name="Country Code">STP</Property>
+    <Property Name="2019 [YR2019]">30.9546637024882</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Saudi Arabia</Property>
+    <Property Name="Country Code">SAU</Property>
+    <Property Name="2019 [YR2019]">7.13055653028488</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Senegal</Property>
+    <Property Name="Country Code">SEN</Property>
+    <Property Name="2019 [YR2019]">43.7546078460253</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Serbia</Property>
+    <Property Name="Country Code">SRB</Property>
+    <Property Name="2019 [YR2019]">2.70973223805172</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Seychelles</Property>
+    <Property Name="Country Code">SYC</Property>
+    <Property Name="2019 [YR2019]">13.4850864126618</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Sierra Leone</Property>
+    <Property Name="Country Code">SLE</Property>
+    <Property Name="2019 [YR2019]">56.6757595572297</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Singapore</Property>
+    <Property Name="Country Code">SGP</Property>
+    <Property Name="2019 [YR2019]">20.7052204629064</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Sint Maarten (Dutch part)</Property>
+    <Property Name="Country Code">SXM</Property>
+    <Property Name="2019 [YR2019]">..</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Slovak Republic</Property>
+    <Property Name="Country Code">SVK</Property>
+    <Property Name="2019 [YR2019]">5.10477524844871</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Slovenia</Property>
+    <Property Name="Country Code">SVN</Property>
+    <Property Name="2019 [YR2019]">2.65495639467145</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Small states</Property>
+    <Property Name="Country Code">SST</Property>
+    <Property Name="2019 [YR2019]">29.2470357474147</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Solomon Islands</Property>
+    <Property Name="Country Code">SLB</Property>
+    <Property Name="2019 [YR2019]">23.3994420494799</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Somalia</Property>
+    <Property Name="Country Code">SOM</Property>
+    <Property Name="2019 [YR2019]">61.0164601667836</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">South Africa</Property>
+    <Property Name="Country Code">ZAF</Property>
+    <Property Name="2019 [YR2019]">35.6803578327848</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">South Asia</Property>
+    <Property Name="Country Code">SAS</Property>
+    <Property Name="2019 [YR2019]">25.2786237230125</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">South Asia (IDA &amp; IBRD)</Property>
+    <Property Name="Country Code">TSA</Property>
+    <Property Name="2019 [YR2019]">25.2786237230125</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">South Sudan</Property>
+    <Property Name="Country Code">SSD</Property>
+    <Property Name="2019 [YR2019]">61.3045825239178</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Spain</Property>
+    <Property Name="Country Code">ESP</Property>
+    <Property Name="2019 [YR2019]">5.61044466480471</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Sri Lanka</Property>
+    <Property Name="Country Code">LKA</Property>
+    <Property Name="2019 [YR2019]">9.47024212360678</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">St. Kitts and Nevis</Property>
+    <Property Name="Country Code">KNA</Property>
+    <Property Name="2019 [YR2019]">..</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">St. Lucia</Property>
+    <Property Name="Country Code">LCA</Property>
+    <Property Name="2019 [YR2019]">7.9406531999336</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">St. Martin (French part)</Property>
+    <Property Name="Country Code">MAF</Property>
+    <Property Name="2019 [YR2019]">..</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">St. Vincent and the Grenadines</Property>
+    <Property Name="Country Code">VCT</Property>
+    <Property Name="2019 [YR2019]">13.1084180064473</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Sub-Saharan Africa</Property>
+    <Property Name="Country Code">SSF</Property>
+    <Property Name="2019 [YR2019]">53.6009012701096</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Sub-Saharan Africa (excluding high income)</Property>
+    <Property Name="Country Code">SSA</Property>
+    <Property Name="2019 [YR2019]">53.6708709579417</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Sub-Saharan Africa (IDA &amp; IBRD countries)</Property>
+    <Property Name="Country Code">TSS</Property>
+    <Property Name="2019 [YR2019]">53.6009012701096</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Sudan</Property>
+    <Property Name="Country Code">SDN</Property>
+    <Property Name="2019 [YR2019]">35.5456510407433</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Suriname</Property>
+    <Property Name="Country Code">SUR</Property>
+    <Property Name="2019 [YR2019]">11.8146625910832</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Sweden</Property>
+    <Property Name="Country Code">SWE</Property>
+    <Property Name="2019 [YR2019]">5.91546177237149</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Switzerland</Property>
+    <Property Name="Country Code">CHE</Property>
+    <Property Name="2019 [YR2019]">4.74880946988912</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Syrian Arab Republic</Property>
+    <Property Name="Country Code">SYR</Property>
+    <Property Name="2019 [YR2019]">10.6566129269053</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Tajikistan</Property>
+    <Property Name="Country Code">TJK</Property>
+    <Property Name="2019 [YR2019]">19.4927277240652</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Tanzania</Property>
+    <Property Name="Country Code">TZA</Property>
+    <Property Name="2019 [YR2019]">54.3369886339401</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Thailand</Property>
+    <Property Name="Country Code">THA</Property>
+    <Property Name="2019 [YR2019]">13.9039699177043</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Timor-Leste</Property>
+    <Property Name="Country Code">TLS</Property>
+    <Property Name="2019 [YR2019]">40.0552374196527</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Togo</Property>
+    <Property Name="Country Code">TGO</Property>
+    <Property Name="2019 [YR2019]">48.5624412207673</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Tonga</Property>
+    <Property Name="Country Code">TON</Property>
+    <Property Name="2019 [YR2019]">11.082843800717</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Trinidad and Tobago</Property>
+    <Property Name="Country Code">TTO</Property>
+    <Property Name="2019 [YR2019]">6.97721770742153</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Tunisia</Property>
+    <Property Name="Country Code">TUN</Property>
+    <Property Name="2019 [YR2019]">7.14455905561033</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Turkey</Property>
+    <Property Name="Country Code">TUR</Property>
+    <Property Name="2019 [YR2019]">5.16531847193368</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Turkmenistan</Property>
+    <Property Name="Country Code">TKM</Property>
+    <Property Name="2019 [YR2019]">21.9530614355745</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Turks and Caicos Islands</Property>
+    <Property Name="Country Code">TCA</Property>
+    <Property Name="2019 [YR2019]">..</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Tuvalu</Property>
+    <Property Name="Country Code">TUV</Property>
+    <Property Name="2019 [YR2019]">..</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Uganda</Property>
+    <Property Name="Country Code">UGA</Property>
+    <Property Name="2019 [YR2019]">51.6605577071455</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Ukraine</Property>
+    <Property Name="Country Code">UKR</Property>
+    <Property Name="2019 [YR2019]">3.13381595554519</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">United Arab Emirates</Property>
+    <Property Name="Country Code">ARE</Property>
+    <Property Name="2019 [YR2019]">7.09169127061723</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">United Kingdom</Property>
+    <Property Name="Country Code">GBR</Property>
+    <Property Name="2019 [YR2019]">8.1567751410004</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Upper middle income</Property>
+    <Property Name="Country Code">UMC</Property>
+    <Property Name="2019 [YR2019]">8.16763400249954</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Uruguay</Property>
+    <Property Name="Country Code">URY</Property>
+    <Property Name="2019 [YR2019]">7.15428871700658</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Uzbekistan</Property>
+    <Property Name="Country Code">UZB</Property>
+    <Property Name="2019 [YR2019]">8.20831596886303</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Vanuatu</Property>
+    <Property Name="Country Code">VUT</Property>
+    <Property Name="2019 [YR2019]">16.8570486119756</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Venezuela</Property>
+    <Property Name="Country Code">RB</Property>
+    <Property Name="2019 [YR2019]">VEN</Property>
+    <Property Name="2020 [YR2020]">15.5617500592489</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Vietnam</Property>
+    <Property Name="Country Code">VNM</Property>
+    <Property Name="2019 [YR2019]">9.30494112386208</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Virgin Islands (U.S.)</Property>
+    <Property Name="Country Code">VIR</Property>
+    <Property Name="2019 [YR2019]">..</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">West Bank and Gaza</Property>
+    <Property Name="Country Code">PSE</Property>
+    <Property Name="2019 [YR2019]">..</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">World</Property>
+    <Property Name="Country Code">WLD</Property>
+    <Property Name="2019 [YR2019]">18.4088503755545</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Yemen</Property>
+    <Property Name="Country Code">Rep.</Property>
+    <Property Name="2019 [YR2019]">YEM</Property>
+    <Property Name="2020 [YR2020]">30.145592705535</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Zambia</Property>
+    <Property Name="Country Code">ZMB</Property>
+    <Property Name="2019 [YR2019]">56.517852657474</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.COMM.ZS</Property>
+    <Property Name="Country Name">Zimbabwe</Property>
+    <Property Name="Country Code">ZWE</Property>
+    <Property Name="2019 [YR2019]">47.6473006196949</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">United States</Property>
+    <Property Name="Country Code">USA</Property>
+    <Property Name="2019 [YR2019]">6.55296093578568</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Afghanistan</Property>
+    <Property Name="Country Code">AFG</Property>
+    <Property Name="2019 [YR2019]">17.2884637273119</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Albania</Property>
+    <Property Name="Country Code">ALB</Property>
+    <Property Name="2019 [YR2019]">3.03599641131377</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Algeria</Property>
+    <Property Name="Country Code">DZA</Property>
+    <Property Name="2019 [YR2019]">7.66004004219541</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">American Samoa</Property>
+    <Property Name="Country Code">ASM</Property>
+    <Property Name="2019 [YR2019]">..</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Andorra</Property>
+    <Property Name="Country Code">AND</Property>
+    <Property Name="2019 [YR2019]">..</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Angola</Property>
+    <Property Name="Country Code">AGO</Property>
+    <Property Name="2019 [YR2019]">9.08828741319193</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Antigua and Barbuda</Property>
+    <Property Name="Country Code">ATG</Property>
+    <Property Name="2019 [YR2019]">5.37279775035651</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Arab World</Property>
+    <Property Name="Country Code">ARB</Property>
+    <Property Name="2019 [YR2019]">10.1279130506063</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Argentina</Property>
+    <Property Name="Country Code">ARG</Property>
+    <Property Name="2019 [YR2019]">5.70904330858032</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Armenia</Property>
+    <Property Name="Country Code">ARM</Property>
+    <Property Name="2019 [YR2019]">4.67775117531801</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Aruba</Property>
+    <Property Name="Country Code">ABW</Property>
+    <Property Name="2019 [YR2019]">..</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Australia</Property>
+    <Property Name="Country Code">AUS</Property>
+    <Property Name="2019 [YR2019]">5.94459221316378</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Austria</Property>
+    <Property Name="Country Code">AUT</Property>
+    <Property Name="2019 [YR2019]">5.44531462854727</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Azerbaijan</Property>
+    <Property Name="Country Code">AZE</Property>
+    <Property Name="2019 [YR2019]">3.7636405524941</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Bahamas</Property>
+    <Property Name="Country Code">The</Property>
+    <Property Name="2019 [YR2019]">BHS</Property>
+    <Property Name="2020 [YR2020]">13.8557689084434</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Bahrain</Property>
+    <Property Name="Country Code">BHR</Property>
+    <Property Name="2019 [YR2019]">8.89231702659159</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Bangladesh</Property>
+    <Property Name="Country Code">BGD</Property>
+    <Property Name="2019 [YR2019]">7.13149266345035</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Barbados</Property>
+    <Property Name="Country Code">BRB</Property>
+    <Property Name="2019 [YR2019]">4.30922726355312</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Belarus</Property>
+    <Property Name="Country Code">BLR</Property>
+    <Property Name="2019 [YR2019]">5.71450571457612</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Belgium</Property>
+    <Property Name="Country Code">BEL</Property>
+    <Property Name="2019 [YR2019]">6.12096377150522</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Belize</Property>
+    <Property Name="Country Code">BLZ</Property>
+    <Property Name="2019 [YR2019]">18.8455291613112</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Benin</Property>
+    <Property Name="Country Code">BEN</Property>
+    <Property Name="2019 [YR2019]">9.19147102400214</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Bermuda</Property>
+    <Property Name="Country Code">BMU</Property>
+    <Property Name="2019 [YR2019]">..</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Bhutan</Property>
+    <Property Name="Country Code">BTN</Property>
+    <Property Name="2019 [YR2019]">9.04574466073515</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Bolivia</Property>
+    <Property Name="Country Code">BOL</Property>
+    <Property Name="2019 [YR2019]">8.7017791007376</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Bosnia and Herzegovina</Property>
+    <Property Name="Country Code">BIH</Property>
+    <Property Name="2019 [YR2019]">3.76658780271476</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Botswana</Property>
+    <Property Name="Country Code">BWA</Property>
+    <Property Name="2019 [YR2019]">9.38521814911902</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Brazil</Property>
+    <Property Name="Country Code">BRA</Property>
+    <Property Name="2019 [YR2019]">11.5536597805284</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">British Virgin Islands</Property>
+    <Property Name="Country Code">VGB</Property>
+    <Property Name="2019 [YR2019]">..</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Brunei Darussalam</Property>
+    <Property Name="Country Code">BRN</Property>
+    <Property Name="2019 [YR2019]">4.98998923708015</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Bulgaria</Property>
+    <Property Name="Country Code">BGR</Property>
+    <Property Name="2019 [YR2019]">2.47491821960442</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Isle of Man</Property>
+    <Property Name="Country Code">IMN</Property>
+    <Property Name="2019 [YR2019]">..</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Israel</Property>
+    <Property Name="Country Code">ISR</Property>
+    <Property Name="2019 [YR2019]">4.23548509030735</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Italy</Property>
+    <Property Name="Country Code">ITA</Property>
+    <Property Name="2019 [YR2019]">3.85670624309975</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Jamaica</Property>
+    <Property Name="Country Code">JAM</Property>
+    <Property Name="2019 [YR2019]">11.729280289459</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Japan</Property>
+    <Property Name="Country Code">JPN</Property>
+    <Property Name="2019 [YR2019]">4.91285957647839</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Jordan</Property>
+    <Property Name="Country Code">JOR</Property>
+    <Property Name="2019 [YR2019]">10.3837060486942</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Kazakhstan</Property>
+    <Property Name="Country Code">KAZ</Property>
+    <Property Name="2019 [YR2019]">8.19985364765381</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Kenya</Property>
+    <Property Name="Country Code">KEN</Property>
+    <Property Name="2019 [YR2019]">10.8536088765901</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Kiribati</Property>
+    <Property Name="Country Code">KIR</Property>
+    <Property Name="2019 [YR2019]">5.56978611559355</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Korea</Property>
+    <Property Name="Country Code">Dem. People's Rep.</Property>
+    <Property Name="2019 [YR2019]">PRK</Property>
+    <Property Name="2020 [YR2020]">6.80565384652683</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Korea</Property>
+    <Property Name="Country Code">Rep.</Property>
+    <Property Name="2019 [YR2019]">KOR</Property>
+    <Property Name="2020 [YR2020]">9.26079720632437</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Kosovo</Property>
+    <Property Name="Country Code">XKX</Property>
+    <Property Name="2019 [YR2019]">..</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Kuwait</Property>
+    <Property Name="Country Code">KWT</Property>
+    <Property Name="2019 [YR2019]">13.5451957149019</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Kyrgyz Republic</Property>
+    <Property Name="Country Code">KGZ</Property>
+    <Property Name="2019 [YR2019]">7.97238903608636</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Lao PDR</Property>
+    <Property Name="Country Code">LAO</Property>
+    <Property Name="2019 [YR2019]">9.01654868295383</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Late-demographic dividend</Property>
+    <Property Name="Country Code">LTE</Property>
+    <Property Name="2019 [YR2019]">7.36842874502886</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Latin America &amp; Caribbean</Property>
+    <Property Name="Country Code">LCN</Property>
+    <Property Name="2019 [YR2019]">11.2298115566005</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Latin America &amp; Caribbean (excluding high income)</Property>
+    <Property Name="Country Code">LAC</Property>
+    <Property Name="2019 [YR2019]">11.3880378936558</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Latin America &amp; the Caribbean (IDA &amp; IBRD countries)</Property>
+    <Property Name="Country Code">TLA</Property>
+    <Property Name="2019 [YR2019]">11.3431377166473</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Latvia</Property>
+    <Property Name="Country Code">LVA</Property>
+    <Property Name="2019 [YR2019]">4.9656268353408</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Least developed countries: UN classification</Property>
+    <Property Name="Country Code">LDC</Property>
+    <Property Name="2019 [YR2019]">10.2526078792974</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Lebanon</Property>
+    <Property Name="Country Code">LBN</Property>
+    <Property Name="2019 [YR2019]">5.89549332195732</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Lesotho</Property>
+    <Property Name="Country Code">LSO</Property>
+    <Property Name="2019 [YR2019]">12.7314607776223</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Liberia</Property>
+    <Property Name="Country Code">LBR</Property>
+    <Property Name="2019 [YR2019]">9.91344023749502</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Libya</Property>
+    <Property Name="Country Code">LBY</Property>
+    <Property Name="2019 [YR2019]">14.556827487362</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Liechtenstein</Property>
+    <Property Name="Country Code">LIE</Property>
+    <Property Name="2019 [YR2019]">..</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Lithuania</Property>
+    <Property Name="Country Code">LTU</Property>
+    <Property Name="2019 [YR2019]">5.43139588283383</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Low &amp; middle income</Property>
+    <Property Name="Country Code">LMY</Property>
+    <Property Name="2019 [YR2019]">8.51414887025088</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Low income</Property>
+    <Property Name="Country Code">LIC</Property>
+    <Property Name="2019 [YR2019]">11.0094381865301</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Lower middle income</Property>
+    <Property Name="Country Code">LMC</Property>
+    <Property Name="2019 [YR2019]">8.78571280452346</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Luxembourg</Property>
+    <Property Name="Country Code">LUX</Property>
+    <Property Name="2019 [YR2019]">6.04676085887135</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Macao SAR</Property>
+    <Property Name="Country Code">China</Property>
+    <Property Name="2019 [YR2019]">MAC</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Madagascar</Property>
+    <Property Name="Country Code">MDG</Property>
+    <Property Name="2019 [YR2019]">9.51518973411725</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Malawi</Property>
+    <Property Name="Country Code">MWI</Property>
+    <Property Name="2019 [YR2019]">10.1643789420465</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Malaysia</Property>
+    <Property Name="Country Code">MYS</Property>
+    <Property Name="2019 [YR2019]">8.41842161031946</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Maldives</Property>
+    <Property Name="Country Code">MDV</Property>
+    <Property Name="2019 [YR2019]">6.66248674447325</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Mali</Property>
+    <Property Name="Country Code">MLI</Property>
+    <Property Name="2019 [YR2019]">9.42341482317176</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Malta</Property>
+    <Property Name="Country Code">MLT</Property>
+    <Property Name="2019 [YR2019]">3.25265750939782</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Marshall Islands</Property>
+    <Property Name="Country Code">MHL</Property>
+    <Property Name="2019 [YR2019]">..</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Mauritania</Property>
+    <Property Name="Country Code">MRT</Property>
+    <Property Name="2019 [YR2019]">10.2224410871213</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Mauritius</Property>
+    <Property Name="Country Code">MUS</Property>
+    <Property Name="2019 [YR2019]">4.35411519799515</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Mexico</Property>
+    <Property Name="Country Code">MEX</Property>
+    <Property Name="2019 [YR2019]">10.4962551679616</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Micronesia</Property>
+    <Property Name="Country Code">Fed. Sts.</Property>
+    <Property Name="2019 [YR2019]">FSM</Property>
+    <Property Name="2020 [YR2020]">7.80877881508904</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Middle East &amp; North Africa</Property>
+    <Property Name="Country Code">MEA</Property>
+    <Property Name="2019 [YR2019]">10.107122981729</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Middle East &amp; North Africa (excluding high income)</Property>
+    <Property Name="Country Code">MNA</Property>
+    <Property Name="2019 [YR2019]">9.48427007673926</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Middle East &amp; North Africa (IDA &amp; IBRD countries)</Property>
+    <Property Name="Country Code">TMN</Property>
+    <Property Name="2019 [YR2019]">9.48427007673927</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Middle income</Property>
+    <Property Name="Country Code">MIC</Property>
+    <Property Name="2019 [YR2019]">8.22116541962694</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Moldova</Property>
+    <Property Name="Country Code">MDA</Property>
+    <Property Name="2019 [YR2019]">6.04526188221804</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Monaco</Property>
+    <Property Name="Country Code">MCO</Property>
+    <Property Name="2019 [YR2019]">..</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Mongolia</Property>
+    <Property Name="Country Code">MNG</Property>
+    <Property Name="2019 [YR2019]">10.9744404544239</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Montenegro</Property>
+    <Property Name="Country Code">MNE</Property>
+    <Property Name="2019 [YR2019]">4.48017883696707</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Morocco</Property>
+    <Property Name="Country Code">MAR</Property>
+    <Property Name="2019 [YR2019]">6.9035818970584</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Mozambique</Property>
+    <Property Name="Country Code">MOZ</Property>
+    <Property Name="2019 [YR2019]">9.39619580490294</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Myanmar</Property>
+    <Property Name="Country Code">MMR</Property>
+    <Property Name="2019 [YR2019]">7.25817448066616</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Namibia</Property>
+    <Property Name="Country Code">NAM</Property>
+    <Property Name="2019 [YR2019]">11.8124947057211</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Nauru</Property>
+    <Property Name="Country Code">NRU</Property>
+    <Property Name="2019 [YR2019]">..</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Nepal</Property>
+    <Property Name="Country Code">NPL</Property>
+    <Property Name="2019 [YR2019]">8.72184539648093</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Netherlands</Property>
+    <Property Name="Country Code">NLD</Property>
+    <Property Name="2019 [YR2019]">5.76499055099377</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">New Caledonia</Property>
+    <Property Name="Country Code">NCL</Property>
+    <Property Name="2019 [YR2019]">..</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">New Zealand</Property>
+    <Property Name="Country Code">NZL</Property>
+    <Property Name="2019 [YR2019]">6.04337155251318</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Nicaragua</Property>
+    <Property Name="Country Code">NIC</Property>
+    <Property Name="2019 [YR2019]">8.90956217157595</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Niger</Property>
+    <Property Name="Country Code">NER</Property>
+    <Property Name="2019 [YR2019]">10.4722428619647</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Nigeria</Property>
+    <Property Name="Country Code">NGA</Property>
+    <Property Name="2019 [YR2019]">7.66039943199942</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">North America</Property>
+    <Property Name="Country Code">NAC</Property>
+    <Property Name="2019 [YR2019]">6.4552307203693</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">North Macedonia</Property>
+    <Property Name="Country Code">MKD</Property>
+    <Property Name="2019 [YR2019]">2.58451833357533</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Northern Mariana Islands</Property>
+    <Property Name="Country Code">MNP</Property>
+    <Property Name="2019 [YR2019]">..</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Norway</Property>
+    <Property Name="Country Code">NOR</Property>
+    <Property Name="2019 [YR2019]">5.59829045075369</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Not classified</Property>
+    <Property Name="Country Code">INX</Property>
+    <Property Name="2019 [YR2019]">..</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">OECD members</Property>
+    <Property Name="Country Code">OED</Property>
+    <Property Name="2019 [YR2019]">5.90524241356707</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Oman</Property>
+    <Property Name="Country Code">OMN</Property>
+    <Property Name="2019 [YR2019]">10.4455851006983</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Other small states</Property>
+    <Property Name="Country Code">OSS</Property>
+    <Property Name="2019 [YR2019]">9.34703642042503</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Pacific island small states</Property>
+    <Property Name="Country Code">PSS</Property>
+    <Property Name="2019 [YR2019]">7.66368284929194</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Pakistan</Property>
+    <Property Name="Country Code">PAK</Property>
+    <Property Name="2019 [YR2019]">6.99617358473283</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Palau</Property>
+    <Property Name="Country Code">PLW</Property>
+    <Property Name="2019 [YR2019]">..</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Panama</Property>
+    <Property Name="Country Code">PAN</Property>
+    <Property Name="2019 [YR2019]">8.77274038420363</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Papua New Guinea</Property>
+    <Property Name="Country Code">PNG</Property>
+    <Property Name="2019 [YR2019]">7.3734407132877</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Paraguay</Property>
+    <Property Name="Country Code">PRY</Property>
+    <Property Name="2019 [YR2019]">11.1075949803312</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Peru</Property>
+    <Property Name="Country Code">PER</Property>
+    <Property Name="2019 [YR2019]">9.87633625552741</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Philippines</Property>
+    <Property Name="Country Code">PHL</Property>
+    <Property Name="2019 [YR2019]">5.96919013955976</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Poland</Property>
+    <Property Name="Country Code">POL</Property>
+    <Property Name="2019 [YR2019]">4.24088228218582</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Portugal</Property>
+    <Property Name="Country Code">PRT</Property>
+    <Property Name="2019 [YR2019]">4.79371579293751</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Post-demographic dividend</Property>
+    <Property Name="Country Code">PST</Property>
+    <Property Name="2019 [YR2019]">5.43067066752352</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Pre-demographic dividend</Property>
+    <Property Name="Country Code">PRE</Property>
+    <Property Name="2019 [YR2019]">9.98772449333338</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Puerto Rico</Property>
+    <Property Name="Country Code">PRI</Property>
+    <Property Name="2019 [YR2019]">..</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Qatar</Property>
+    <Property Name="Country Code">QAT</Property>
+    <Property Name="2019 [YR2019]">18.1595052295684</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Romania</Property>
+    <Property Name="Country Code">ROU</Property>
+    <Property Name="2019 [YR2019]">3.63515880942512</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Russian Federation</Property>
+    <Property Name="Country Code">RUS</Property>
+    <Property Name="2019 [YR2019]">6.79121723457985</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Rwanda</Property>
+    <Property Name="Country Code">RWA</Property>
+    <Property Name="2019 [YR2019]">11.4263943162598</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Samoa</Property>
+    <Property Name="Country Code">WSM</Property>
+    <Property Name="2019 [YR2019]">7.88275737702493</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">San Marino</Property>
+    <Property Name="Country Code">SMR</Property>
+    <Property Name="2019 [YR2019]">..</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Sao Tome and Principe</Property>
+    <Property Name="Country Code">STP</Property>
+    <Property Name="2019 [YR2019]">11.4148873749694</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Saudi Arabia</Property>
+    <Property Name="Country Code">SAU</Property>
+    <Property Name="2019 [YR2019]">19.4592222972666</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Senegal</Property>
+    <Property Name="Country Code">SEN</Property>
+    <Property Name="2019 [YR2019]">11.335051948198</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Serbia</Property>
+    <Property Name="Country Code">SRB</Property>
+    <Property Name="2019 [YR2019]">2.37438662942997</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Seychelles</Property>
+    <Property Name="Country Code">SYC</Property>
+    <Property Name="2019 [YR2019]">7.53426106067687</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Sierra Leone</Property>
+    <Property Name="Country Code">SLE</Property>
+    <Property Name="2019 [YR2019]">9.24984218649174</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Singapore</Property>
+    <Property Name="Country Code">SGP</Property>
+    <Property Name="2019 [YR2019]">4.27353050170409</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Sint Maarten (Dutch part)</Property>
+    <Property Name="Country Code">SXM</Property>
+    <Property Name="2019 [YR2019]">..</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Slovak Republic</Property>
+    <Property Name="Country Code">SVK</Property>
+    <Property Name="2019 [YR2019]">6.28671780232579</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Slovenia</Property>
+    <Property Name="Country Code">SVN</Property>
+    <Property Name="2019 [YR2019]">7.35694422198643</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Small states</Property>
+    <Property Name="Country Code">SST</Property>
+    <Property Name="2019 [YR2019]">9.54936535014835</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Solomon Islands</Property>
+    <Property Name="Country Code">SLB</Property>
+    <Property Name="2019 [YR2019]">9.76886012120253</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">Somalia</Property>
+    <Property Name="Country Code">SOM</Property>
+    <Property Name="2019 [YR2019]">9.10451274150765</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">South Africa</Property>
+    <Property Name="Country Code">ZAF</Property>
+    <Property Name="2019 [YR2019]">12.9895858197131</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by injury (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.INJR.ZS</Property>
+    <Property Name="Country Name">South Asia</Property>
+    <Property Name="Country Code">SAS</Property>
+    <Property Name="2019 [YR2019]">9.44608709172634</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by non-communicable diseases (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.NCOM.ZS</Property>
+    <Property Name="Country Name">Albania</Property>
+    <Property Name="Country Code">ALB</Property>
+    <Property Name="2019 [YR2019]">93.9408931427863</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by non-communicable diseases (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.NCOM.ZS</Property>
+    <Property Name="Country Name">Algeria</Property>
+    <Property Name="Country Code">DZA</Property>
+    <Property Name="2019 [YR2019]">79.3555504278759</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by non-communicable diseases (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.NCOM.ZS</Property>
+    <Property Name="Country Name">American Samoa</Property>
+    <Property Name="Country Code">ASM</Property>
+    <Property Name="2019 [YR2019]">..</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by non-communicable diseases (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.NCOM.ZS</Property>
+    <Property Name="Country Name">Andorra</Property>
+    <Property Name="Country Code">AND</Property>
+    <Property Name="2019 [YR2019]">..</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by non-communicable diseases (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.NCOM.ZS</Property>
+    <Property Name="Country Name">Angola</Property>
+    <Property Name="Country Code">AGO</Property>
+    <Property Name="2019 [YR2019]">31.7494401531339</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by non-communicable diseases (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.NCOM.ZS</Property>
+    <Property Name="Country Name">Antigua and Barbuda</Property>
+    <Property Name="Country Code">ATG</Property>
+    <Property Name="2019 [YR2019]">84.7928092808798</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by non-communicable diseases (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.NCOM.ZS</Property>
+    <Property Name="Country Name">Arab World</Property>
+    <Property Name="Country Code">ARB</Property>
+    <Property Name="2019 [YR2019]">71.0539443533865</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by non-communicable diseases (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.NCOM.ZS</Property>
+    <Property Name="Country Name">Argentina</Property>
+    <Property Name="Country Code">ARG</Property>
+    <Property Name="2019 [YR2019]">76.6944625404959</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by non-communicable diseases (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.NCOM.ZS</Property>
+    <Property Name="Country Name">Armenia</Property>
+    <Property Name="Country Code">ARM</Property>
+    <Property Name="2019 [YR2019]">88.6277513245613</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by non-communicable diseases (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.NCOM.ZS</Property>
+    <Property Name="Country Name">Aruba</Property>
+    <Property Name="Country Code">ABW</Property>
+    <Property Name="2019 [YR2019]">..</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by non-communicable diseases (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.NCOM.ZS</Property>
+    <Property Name="Country Name">Australia</Property>
+    <Property Name="Country Code">AUS</Property>
+    <Property Name="2019 [YR2019]">89.1143536670652</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by non-communicable diseases (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.NCOM.ZS</Property>
+    <Property Name="Country Name">Austria</Property>
+    <Property Name="Country Code">AUT</Property>
+    <Property Name="2019 [YR2019]">90.9847050700664</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by non-communicable diseases (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.NCOM.ZS</Property>
+    <Property Name="Country Name">Azerbaijan</Property>
+    <Property Name="Country Code">AZE</Property>
+    <Property Name="2019 [YR2019]">90.2481711224634</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by non-communicable diseases (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.NCOM.ZS</Property>
+    <Property Name="Country Name">Bahamas</Property>
+    <Property Name="Country Code">The</Property>
+    <Property Name="2019 [YR2019]">BHS</Property>
+    <Property Name="2020 [YR2020]">75.4340380076986</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by non-communicable diseases (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.NCOM.ZS</Property>
+    <Property Name="Country Name">Bahrain</Property>
+    <Property Name="Country Code">BHR</Property>
+    <Property Name="2019 [YR2019]">86.0990092950325</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by non-communicable diseases (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.NCOM.ZS</Property>
+    <Property Name="Country Name">Bangladesh</Property>
+    <Property Name="Country Code">BGD</Property>
+    <Property Name="2019 [YR2019]">70.2556717831391</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by non-communicable diseases (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.NCOM.ZS</Property>
+    <Property Name="Country Name">Barbados</Property>
+    <Property Name="Country Code">BRB</Property>
+    <Property Name="2019 [YR2019]">82.790270878622</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by non-communicable diseases (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.NCOM.ZS</Property>
+    <Property Name="Country Name">Belarus</Property>
+    <Property Name="Country Code">BLR</Property>
+    <Property Name="2019 [YR2019]">92.6768424325138</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by non-communicable diseases (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.NCOM.ZS</Property>
+    <Property Name="Country Name">Belgium</Property>
+    <Property Name="Country Code">BEL</Property>
+    <Property Name="2019 [YR2019]">85.9811278647269</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by non-communicable diseases (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.NCOM.ZS</Property>
+    <Property Name="Country Name">Belize</Property>
+    <Property Name="Country Code">BLZ</Property>
+    <Property Name="2019 [YR2019]">65.2188110018724</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by non-communicable diseases (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.NCOM.ZS</Property>
+    <Property Name="Country Name">Benin</Property>
+    <Property Name="Country Code">BEN</Property>
+    <Property Name="2019 [YR2019]">38.9765291553727</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by non-communicable diseases (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.NCOM.ZS</Property>
+    <Property Name="Country Name">Bermuda</Property>
+    <Property Name="Country Code">BMU</Property>
+    <Property Name="2019 [YR2019]">..</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by non-communicable diseases (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.NCOM.ZS</Property>
+    <Property Name="Country Name">Bhutan</Property>
+    <Property Name="Country Code">BTN</Property>
+    <Property Name="2019 [YR2019]">72.7433195327289</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by non-communicable diseases (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.NCOM.ZS</Property>
+    <Property Name="Country Name">Bolivia</Property>
+    <Property Name="Country Code">BOL</Property>
+    <Property Name="2019 [YR2019]">72.6759001252702</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by non-communicable diseases (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.NCOM.ZS</Property>
+    <Property Name="Country Name">Bosnia and Herzegovina</Property>
+    <Property Name="Country Code">BIH</Property>
+    <Property Name="2019 [YR2019]">94.4236633469105</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by non-communicable diseases (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.NCOM.ZS</Property>
+    <Property Name="Country Name">Botswana</Property>
+    <Property Name="Country Code">BWA</Property>
+    <Property Name="2019 [YR2019]">45.7103277474811</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by non-communicable diseases (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.NCOM.ZS</Property>
+    <Property Name="Country Name">Pakistan</Property>
+    <Property Name="Country Code">PAK</Property>
+    <Property Name="2019 [YR2019]">59.8558675161075</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by non-communicable diseases (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.NCOM.ZS</Property>
+    <Property Name="Country Name">Palau</Property>
+    <Property Name="Country Code">PLW</Property>
+    <Property Name="2019 [YR2019]">..</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by non-communicable diseases (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.NCOM.ZS</Property>
+    <Property Name="Country Name">Panama</Property>
+    <Property Name="Country Code">PAN</Property>
+    <Property Name="2019 [YR2019]">77.859990559681</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by non-communicable diseases (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.NCOM.ZS</Property>
+    <Property Name="Country Name">Papua New Guinea</Property>
+    <Property Name="Country Code">PNG</Property>
+    <Property Name="2019 [YR2019]">62.3545333786307</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by non-communicable diseases (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.NCOM.ZS</Property>
+    <Property Name="Country Name">Paraguay</Property>
+    <Property Name="Country Code">PRY</Property>
+    <Property Name="2019 [YR2019]">74.9383368877686</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by non-communicable diseases (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.NCOM.ZS</Property>
+    <Property Name="Country Name">Peru</Property>
+    <Property Name="Country Code">PER</Property>
+    <Property Name="2019 [YR2019]">72.5860849365678</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by non-communicable diseases (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.NCOM.ZS</Property>
+    <Property Name="Country Name">Philippines</Property>
+    <Property Name="Country Code">PHL</Property>
+    <Property Name="2019 [YR2019]">69.7491443602475</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by non-communicable diseases (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.NCOM.ZS</Property>
+    <Property Name="Country Name">Poland</Property>
+    <Property Name="Country Code">POL</Property>
+    <Property Name="2019 [YR2019]">89.906897649352</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by non-communicable diseases (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.NCOM.ZS</Property>
+    <Property Name="Country Name">Portugal</Property>
+    <Property Name="Country Code">PRT</Property>
+    <Property Name="2019 [YR2019]">86.6892779439777</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by non-communicable diseases (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.NCOM.ZS</Property>
+    <Property Name="Country Name">Post-demographic dividend</Property>
+    <Property Name="Country Code">PST</Property>
+    <Property Name="2019 [YR2019]">88.2560126317295</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by non-communicable diseases (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.NCOM.ZS</Property>
+    <Property Name="Country Name">Pre-demographic dividend</Property>
+    <Property Name="Country Code">PRE</Property>
+    <Property Name="2019 [YR2019]">35.2431982623352</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by non-communicable diseases (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.NCOM.ZS</Property>
+    <Property Name="Country Name">Puerto Rico</Property>
+    <Property Name="Country Code">PRI</Property>
+    <Property Name="2019 [YR2019]">..</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by non-communicable diseases (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.NCOM.ZS</Property>
+    <Property Name="Country Name">Qatar</Property>
+    <Property Name="Country Code">QAT</Property>
+    <Property Name="2019 [YR2019]">76.8900092385815</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by non-communicable diseases (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.NCOM.ZS</Property>
+    <Property Name="Country Name">Romania</Property>
+    <Property Name="Country Code">ROU</Property>
+    <Property Name="2019 [YR2019]">91.037146163309</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by non-communicable diseases (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.NCOM.ZS</Property>
+    <Property Name="Country Name">Russian Federation</Property>
+    <Property Name="Country Code">RUS</Property>
+    <Property Name="2019 [YR2019]">89.3053298873847</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by non-communicable diseases (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.NCOM.ZS</Property>
+    <Property Name="Country Name">Rwanda</Property>
+    <Property Name="Country Code">RWA</Property>
+    <Property Name="2019 [YR2019]">50.3926880607269</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by non-communicable diseases (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.NCOM.ZS</Property>
+    <Property Name="Country Name">Samoa</Property>
+    <Property Name="Country Code">WSM</Property>
+    <Property Name="2019 [YR2019]">81.751376205632</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by non-communicable diseases (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.NCOM.ZS</Property>
+    <Property Name="Country Name">San Marino</Property>
+    <Property Name="Country Code">SMR</Property>
+    <Property Name="2019 [YR2019]">..</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by non-communicable diseases (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.NCOM.ZS</Property>
+    <Property Name="Country Name">Sao Tome and Principe</Property>
+    <Property Name="Country Code">STP</Property>
+    <Property Name="2019 [YR2019]">57.630449772173</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by non-communicable diseases (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.NCOM.ZS</Property>
+    <Property Name="Country Name">Saudi Arabia</Property>
+    <Property Name="Country Code">SAU</Property>
+    <Property Name="2019 [YR2019]">73.410221100722</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by non-communicable diseases (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.NCOM.ZS</Property>
+    <Property Name="Country Name">Senegal</Property>
+    <Property Name="Country Code">SEN</Property>
+    <Property Name="2019 [YR2019]">44.9103407806288</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by non-communicable diseases (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.NCOM.ZS</Property>
+    <Property Name="Country Name">Serbia</Property>
+    <Property Name="Country Code">SRB</Property>
+    <Property Name="2019 [YR2019]">94.9158841872602</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by non-communicable diseases (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.NCOM.ZS</Property>
+    <Property Name="Country Name">Seychelles</Property>
+    <Property Name="Country Code">SYC</Property>
+    <Property Name="2019 [YR2019]">78.9806538080804</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by non-communicable diseases (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.NCOM.ZS</Property>
+    <Property Name="Country Name">Sierra Leone</Property>
+    <Property Name="Country Code">SLE</Property>
+    <Property Name="2019 [YR2019]">34.0743981626212</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by non-communicable diseases (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.NCOM.ZS</Property>
+    <Property Name="Country Name">Singapore</Property>
+    <Property Name="Country Code">SGP</Property>
+    <Property Name="2019 [YR2019]">75.0212481147359</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by non-communicable diseases (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.NCOM.ZS</Property>
+    <Property Name="Country Name">Sint Maarten (Dutch part)</Property>
+    <Property Name="Country Code">SXM</Property>
+    <Property Name="2019 [YR2019]">..</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by non-communicable diseases (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.NCOM.ZS</Property>
+    <Property Name="Country Name">Slovak Republic</Property>
+    <Property Name="Country Code">SVK</Property>
+    <Property Name="2019 [YR2019]">88.6085086359974</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by non-communicable diseases (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.NCOM.ZS</Property>
+    <Property Name="Country Name">Slovenia</Property>
+    <Property Name="Country Code">SVN</Property>
+    <Property Name="2019 [YR2019]">89.9880996804389</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by non-communicable diseases (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.NCOM.ZS</Property>
+    <Property Name="Country Name">Small states</Property>
+    <Property Name="Country Code">SST</Property>
+    <Property Name="2019 [YR2019]">61.2035992915415</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+  <Object>
+    <Property Name="Series Name">Cause of death, by non-communicable diseases (% of total)</Property>
+    <Property Name="Series Code">SH.DTH.NCOM.ZS</Property>
+    <Property Name="Country Name">Zimbabwe</Property>
+    <Property Name="Country Code">ZWE</Property>
+    <Property Name="2019 [YR2019]">39.2582275747306</Property>
+    <Property Name="2020 [YR2020]">..</Property>
+  </Object>
+</Objects>
